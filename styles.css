@@ -8167,7 +8167,7 @@ textarea.form-control-lg {
 
 .bg-dark2 {
   --bs-bg-opacity: 1;
-   background: url("../1.jpg");
+   background: url("1.jpg");
   background-size: cover;
 position: relative;
 width: 100vw;
